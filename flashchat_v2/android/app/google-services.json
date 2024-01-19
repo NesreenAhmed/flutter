@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "431726189281",
+    "project_id": "flashchat-v2-229ea",
+    "storage_bucket": "flashchat-v2-229ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431726189281:android:623e49cdddcf8f04b535a0",
+        "android_client_info": {
+          "package_name": "com.nesreenahmed.flashchat_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431726189281-uamoven7d0rob2ker476gspjs11k1dgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGbk5otzaDJdEQbZkR8SpH91B7QXc-2QA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431726189281-uamoven7d0rob2ker476gspjs11k1dgt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
